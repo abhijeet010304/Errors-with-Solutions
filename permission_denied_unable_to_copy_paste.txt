@@ -1,9 +1,17 @@
-Watch this if unable to copy paste in any of the directory or create folder.
+1 : Watch this if unable to copy paste in any of the directory or create folder.
 This was useful.
-
-
 ********
 
 https://www.youtube.com/watch?v=dE4xfProZF0&ab_channel=AsvMedia
 
 ********
+2: if you want Sublime to lose last session: 
+****************
+Go to Menu Bar > Preference > Settings. One the right hand side add the following two lines,
+
+{
+  "hot_exit": false,
+  "remember_open_files": false
+}
+
+*****************
