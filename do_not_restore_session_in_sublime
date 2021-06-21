@@ -1,0 +1,10 @@
+ if you want Sublime to lose last session: 
+****************
+Go to Menu Bar > Preference > Settings. One the right hand side add the following two lines,
+
+{
+  "hot_exit": false,
+  "remember_open_files": false
+}
+
+*****************
