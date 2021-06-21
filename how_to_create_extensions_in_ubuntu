@@ -1,0 +1,10 @@
+
+go to .local/share/gnome-shell
+create a folder name it "extensions" if it is not present
+then copy/paste the extracted folder of the extension you want 
+go to meta-data file inside the extracted folder
+copy uuid string from there 
+then rename the folder inside extension folder with uuid
+
+or you can watch this video for the steps
+https://www.youtube.com/watch?v=r8vrhIj31a8&ab_channel=jorgemtds
