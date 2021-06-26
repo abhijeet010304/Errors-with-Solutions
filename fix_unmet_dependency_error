@@ -1,0 +1,2 @@
+sudo dpkg --configure -a
+and remove printed packages with sudo dpkg --remove [package-name]
