@@ -8,3 +8,7 @@ sudo rm /etc/pulse/default.pa
 sudo mv /etc/pulse/default.pa.bak /etc/pulse/default.pa
 pulseaudio -k
 pulseaudio --start
+
+
+
+Exact location where default.pa should be present : /etc/pulse/default.pa
