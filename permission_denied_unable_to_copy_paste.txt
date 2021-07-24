@@ -6,3 +6,11 @@ https://www.youtube.com/watch?v=dE4xfProZF0&ab_channel=AsvMedia
 
 ********
 
+Run these commands:
+sudo fdisk -l
+sudo ntfsfix /dev/sda1
+
+
+- note: sda is the drive you want to fix
+
+
