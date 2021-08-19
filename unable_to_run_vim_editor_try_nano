@@ -1,0 +1,10 @@
+https://askubuntu.com/questions/405551/unable-to-edit-using-vi
+
+If you're dissatisfied with the complexities of using vi, try using nano text editor, which is included in the default Ubuntu installation. There are only two things that you need to know to use nano, and they both appear at the bottom of every page in nano. The only two nano keyboard shortcuts that you need to know are for WriteOut and Exit.
+
+1: Press the keyboard combination Ctrl+O and after that press Enter to save the file being edited in nano to its current location.
+
+2: Press the keyboard combination Ctrl+X to exit nano.
+
+To edit the /etc/network/interfaces file from the terminal type:
+sudo nano /etc/network/interfaces  
